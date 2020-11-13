@@ -1,0 +1,34 @@
+h1 {
+	color: red;
+	text-align : center ;
+	font-style: italic;
+	text-shadow: 5px 5px 2px #800000;
+	font-size: 50px;
+}
+
+h2 {
+	font-weight: normal;
+	text-align: center;
+}
+
+
+div#chat {
+	color: #b300b3;
+}
+
+div#couleurs { 
+	color: #4d4dff;
+}
+
+div#nourriture {
+	color: #00cc44;
+}
+
+div#cris {
+	color: #ff6600;
+}
+
+div#mi {
+	color: #cc0000;
+}
+
